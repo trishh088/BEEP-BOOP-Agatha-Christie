@@ -1,0 +1,2 @@
+# BEEP BOOP Agatha Christie
+ Recurrent Neural Networks can be used as generative models and that is exactly what we will be trying in this project. We are using three public domain books by Agatha Christie, from Project Gutenberg, to train a sequence-to-sequence model to generate the first page of a non-existent book. We are feeding sentences from several of her books and then demonstrating the capability of our model to generate new sentences. Several models have been tested to generate the page.
